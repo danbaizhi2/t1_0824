@@ -2,3 +2,4 @@
 2nd line
 第三行，是第三次提交的
 这是第四次提交的内容，line
+test git diff有效吗
